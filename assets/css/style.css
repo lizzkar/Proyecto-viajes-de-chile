@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.icon-container {
+    position: relative;
+    text-align: center;
+    height: 4rem;
+    background-color: #0fc49d;
+}
+
+.icon {
+    font-size: 30px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-body-transparente {
+    background-color: transparent;
+}
+
+.col {
+    text-align: left;
+}
+
+.nav-bar-brand {
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.navbar-brand,
+.navbar-nav a {
+    color: #fff !important;
+}
