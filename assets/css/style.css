@@ -13,10 +13,15 @@ body {
     color: #fff;
 }
 
-h1 {
+h2 {
     text-align: center;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .icon-container {
@@ -51,4 +56,49 @@ h1 {
 .navbar-brand,
 .navbar-nav a {
     color: #fff !important;
+}
+
+.card-img-top {
+    height: 30vh;
+}
+
+.card {
+    background-color: #0fc49d;
+}
+
+.card-text {
+    color: #fff;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+h3 {
+    color: #fff;
+
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 8rem;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+
+}
+
+.footer {
+    background-color: #0fc49d;
+    height: 6rem;
+    text-align: center;
+}
+
+.footer-iconos {
+    font-size: 30px;
+    padding-top: 20px;
+
+
+}
+
+.redes-sociales {
+    background-color: #fff;
 }
